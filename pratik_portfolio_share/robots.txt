@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pratikvisuals.netlify.app/sitemap.xml
