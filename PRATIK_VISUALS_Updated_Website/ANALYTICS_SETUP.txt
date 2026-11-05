@@ -1,0 +1,11 @@
+ANALYTICS SETUP — GOOGLE ANALYTICS 4
+
+Analytics is intentionally not active yet because a real GA4 Measurement ID was not provided.
+
+To activate:
+1. Create or open a Google Analytics 4 property.
+2. In Admin > Data streams, open the website stream and copy its Measurement ID (format: G-XXXXXXXXXX).
+3. Send that ID to the developer or insert the official Google tag in the <head> of index.html.
+4. Deploy the site and verify events in GA4 Realtime.
+
+Do not use a made-up ID. Avoid adding multiple copies of the Google tag.
